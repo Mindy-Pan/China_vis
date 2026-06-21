@@ -1,0 +1,19 @@
+{
+  "total_scripts": 270,
+  "structure_distribution": {
+    "single_peak": 244,
+    "dual_peak": 19,
+    "multi_peak": 7
+  },
+  "peak_timing_distribution": {
+    "middle": 155,
+    "early": 42,
+    "late": 73
+  },
+  "type_counts": {
+    "历史戏": 120,
+    "家庭戏": 124,
+    "公案戏": 19,
+    "神话戏": 7
+  }
+}

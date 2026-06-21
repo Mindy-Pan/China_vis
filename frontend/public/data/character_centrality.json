@@ -1,0 +1,2871 @@
+{
+  "characters": {
+    "诸葛亮": {
+      "appearances": 27,
+      "avg_degree": 3.19,
+      "avg_pagerank": 0.2588,
+      "avg_betweenness": 0.0736
+    },
+    "司马懿": {
+      "appearances": 7,
+      "avg_degree": 4.14,
+      "avg_pagerank": 0.1419,
+      "avg_betweenness": 0.0552
+    },
+    "司马师": {
+      "appearances": 4,
+      "avg_degree": 1.75,
+      "avg_pagerank": 0.1407,
+      "avg_betweenness": 0.0375
+    },
+    "司马昭": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.1485,
+      "avg_betweenness": 0.0
+    },
+    "赵云": {
+      "appearances": 18,
+      "avg_degree": 5.06,
+      "avg_pagerank": 0.212,
+      "avg_betweenness": 0.1149
+    },
+    "老军甲": {
+      "appearances": 2,
+      "avg_degree": 6.0,
+      "avg_pagerank": 0.1694,
+      "avg_betweenness": 0.1667
+    },
+    "老军乙": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.1694,
+      "avg_betweenness": 0
+    },
+    "杨延昭": {
+      "appearances": 7,
+      "avg_degree": 4.29,
+      "avg_pagerank": 0.2401,
+      "avg_betweenness": 0.0982
+    },
+    "孟良": {
+      "appearances": 4,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0.1907,
+      "avg_betweenness": 0.0496
+    },
+    "焦赞": {
+      "appearances": 4,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.2184,
+      "avg_betweenness": 0.0139
+    },
+    "赵德芳": {
+      "appearances": 7,
+      "avg_degree": 5.29,
+      "avg_pagerank": 0.1329,
+      "avg_betweenness": 0.0136
+    },
+    "杨继业": {
+      "appearances": 3,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.2289,
+      "avg_betweenness": 0.0341
+    },
+    "杨宗保": {
+      "appearances": 5,
+      "avg_degree": 4.4,
+      "avg_pagerank": 0.2026,
+      "avg_betweenness": 0.2
+    },
+    "佘太君": {
+      "appearances": 4,
+      "avg_degree": 4.75,
+      "avg_pagerank": 0.1657,
+      "avg_betweenness": 0.1111
+    },
+    "王春娥": {
+      "appearances": 3,
+      "avg_degree": 3.33,
+      "avg_pagerank": 0.2666,
+      "avg_betweenness": 0.0
+    },
+    "薛保": {
+      "appearances": 3,
+      "avg_degree": 3.33,
+      "avg_pagerank": 0.2666,
+      "avg_betweenness": 0.0
+    },
+    "薛倚哥": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.2916,
+      "avg_betweenness": 0.0
+    },
+    "刘世昌": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.2679,
+      "avg_betweenness": 0.0833
+    },
+    "赵大": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.2231,
+      "avg_betweenness": 0.0
+    },
+    "包拯": {
+      "appearances": 12,
+      "avg_degree": 3.58,
+      "avg_pagerank": 0.2768,
+      "avg_betweenness": 0.0678
+    },
+    "曹操": {
+      "appearances": 15,
+      "avg_degree": 4.07,
+      "avg_pagerank": 0.2683,
+      "avg_betweenness": 0.0756
+    },
+    "陈宫": {
+      "appearances": 3,
+      "avg_degree": 4.33,
+      "avg_pagerank": 0.233,
+      "avg_betweenness": 0.1222
+    },
+    "店家": {
+      "appearances": 4,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.2288,
+      "avg_betweenness": 0.0
+    },
+    "金氏": {
+      "appearances": 2,
+      "avg_degree": 1.5,
+      "avg_pagerank": 0.307,
+      "avg_betweenness": 0.0
+    },
+    "刘备": {
+      "appearances": 24,
+      "avg_degree": 4.38,
+      "avg_pagerank": 0.2048,
+      "avg_betweenness": 0.0758
+    },
+    "媒婆": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "田单": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0.2202,
+      "avg_betweenness": 0.1
+    },
+    "伊立": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.1649,
+      "avg_betweenness": 0.0
+    },
+    "田法章": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0.2202,
+      "avg_betweenness": 0.1
+    },
+    "乳娘": {
+      "appearances": 3,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.2257,
+      "avg_betweenness": 0.0556
+    },
+    "衙役甲": {
+      "appearances": 3,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.1258,
+      "avg_betweenness": 0.0
+    },
+    "衙役乙": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "伍员": {
+      "appearances": 5,
+      "avg_degree": 2.8,
+      "avg_pagerank": 0.3497,
+      "avg_betweenness": 0.2267
+    },
+    "周瑜": {
+      "appearances": 10,
+      "avg_degree": 3.1,
+      "avg_pagerank": 0.1199,
+      "avg_betweenness": 0.0317
+    },
+    "张飞": {
+      "appearances": 16,
+      "avg_degree": 4.25,
+      "avg_pagerank": 0.2368,
+      "avg_betweenness": 0.1952
+    },
+    "鲁肃": {
+      "appearances": 11,
+      "avg_degree": 3.82,
+      "avg_pagerank": 0.2467,
+      "avg_betweenness": 0.0524
+    },
+    "姜维": {
+      "appearances": 4,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.3798,
+      "avg_betweenness": 0.3333
+    },
+    "刘禅": {
+      "appearances": 4,
+      "avg_degree": 1.75,
+      "avg_pagerank": 0.2037,
+      "avg_betweenness": 0.0
+    },
+    "朱母": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.2248,
+      "avg_betweenness": 0.0833
+    },
+    "中军": {
+      "appearances": 2,
+      "avg_degree": 6.0,
+      "avg_pagerank": 0.2389,
+      "avg_betweenness": 0.0694
+    },
+    "潘洪": {
+      "appearances": 3,
+      "avg_degree": 2.67,
+      "avg_pagerank": 0.2595,
+      "avg_betweenness": 0.0
+    },
+    "夫人": {
+      "appearances": 7,
+      "avg_degree": 3.43,
+      "avg_pagerank": 0.1553,
+      "avg_betweenness": 0.0136
+    },
+    "徐策": {
+      "appearances": 3,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.3578,
+      "avg_betweenness": 0.0
+    },
+    "薛蛟": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.3517,
+      "avg_betweenness": 0.0
+    },
+    "书童": {
+      "appearances": 6,
+      "avg_degree": 2.67,
+      "avg_pagerank": 0.2397,
+      "avg_betweenness": 0.0139
+    },
+    "宋江": {
+      "appearances": 7,
+      "avg_degree": 3.43,
+      "avg_pagerank": 0.2228,
+      "avg_betweenness": 0.0133
+    },
+    "张文远": {
+      "appearances": 2,
+      "avg_degree": 1.5,
+      "avg_pagerank": 0.435,
+      "avg_betweenness": 0.0
+    },
+    "杨延嗣": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.2118,
+      "avg_betweenness": 0.0
+    },
+    "陈氏": {
+      "appearances": 2,
+      "avg_degree": 1.5,
+      "avg_pagerank": 0.435,
+      "avg_betweenness": 0.0
+    },
+    "王宝钏": {
+      "appearances": 7,
+      "avg_degree": 2.57,
+      "avg_pagerank": 0.3806,
+      "avg_betweenness": 0.0
+    },
+    "陈杏元": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.2731,
+      "avg_betweenness": 0.0
+    },
+    "邹云英": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.2922,
+      "avg_betweenness": 0.0
+    },
+    "唐王": {
+      "appearances": 2,
+      "avg_degree": 6.0,
+      "avg_pagerank": 0.1666,
+      "avg_betweenness": 0.0536
+    },
+    "公主": {
+      "appearances": 3,
+      "avg_degree": 3.33,
+      "avg_pagerank": 0.2023,
+      "avg_betweenness": 0.0
+    },
+    "程婴": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.2606,
+      "avg_betweenness": 0.1428
+    },
+    "屠岸贾": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.1615,
+      "avg_betweenness": 0.0
+    },
+    "专诸": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.2617,
+      "avg_betweenness": 0.0667
+    },
+    "姬光": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.2356,
+      "avg_betweenness": 0.0
+    },
+    "康氏": {
+      "appearances": 3,
+      "avg_degree": 2.67,
+      "avg_pagerank": 0.334,
+      "avg_betweenness": 0.0
+    },
+    "张义": {
+      "appearances": 2,
+      "avg_degree": 1.5,
+      "avg_pagerank": 0.435,
+      "avg_betweenness": 0.0
+    },
+    "正德帝": {
+      "appearances": 2,
+      "avg_degree": 1.5,
+      "avg_pagerank": 0.5,
+      "avg_betweenness": 0.0
+    },
+    "吕布": {
+      "appearances": 5,
+      "avg_degree": 3.4,
+      "avg_pagerank": 0.2584,
+      "avg_betweenness": 0.0417
+    },
+    "貂蝉": {
+      "appearances": 4,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.3863,
+      "avg_betweenness": 0.0
+    },
+    "关羽": {
+      "appearances": 14,
+      "avg_degree": 4.14,
+      "avg_pagerank": 0.2706,
+      "avg_betweenness": 0.1019
+    },
+    "秦王": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.2669,
+      "avg_betweenness": 0.0278
+    },
+    "秦琼": {
+      "appearances": 6,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.1813,
+      "avg_betweenness": 0.0566
+    },
+    "程咬金": {
+      "appearances": 7,
+      "avg_degree": 5.14,
+      "avg_pagerank": 0.1951,
+      "avg_betweenness": 0.04
+    },
+    "尉迟恭": {
+      "appearances": 6,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.2245,
+      "avg_betweenness": 0.1396
+    },
+    "张保": {
+      "appearances": 2,
+      "avg_degree": 6.0,
+      "avg_pagerank": 0.1626,
+      "avg_betweenness": 0.1641
+    },
+    "白素贞": {
+      "appearances": 3,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.3343,
+      "avg_betweenness": 0.0
+    },
+    "范仲禹": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.3354,
+      "avg_betweenness": 0.4
+    },
+    "黄盖": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.1202,
+      "avg_betweenness": 0
+    },
+    "甘宁": {
+      "appearances": 3,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "蔡瑁": {
+      "appearances": 2,
+      "avg_degree": 1.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0.141
+    },
+    "穆桂英": {
+      "appearances": 3,
+      "avg_degree": 4.67,
+      "avg_pagerank": 0.2479,
+      "avg_betweenness": 0.0278
+    },
+    "李后": {
+      "appearances": 3,
+      "avg_degree": 3.33,
+      "avg_pagerank": 0.2291,
+      "avg_betweenness": 0.0259
+    },
+    "地方": {
+      "appearances": 2,
+      "avg_degree": 1.5,
+      "avg_pagerank": 0.3333,
+      "avg_betweenness": 0.0
+    },
+    "宋仁宗": {
+      "appearances": 3,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.1775,
+      "avg_betweenness": 0.0222
+    },
+    "陈琳": {
+      "appearances": 2,
+      "avg_degree": 6.5,
+      "avg_pagerank": 0.0986,
+      "avg_betweenness": 0.0169
+    },
+    "赵匡胤": {
+      "appearances": 10,
+      "avg_degree": 3.8,
+      "avg_pagerank": 0.2199,
+      "avg_betweenness": 0.0031
+    },
+    "郑恩": {
+      "appearances": 2,
+      "avg_degree": 7.5,
+      "avg_pagerank": 0.1398,
+      "avg_betweenness": 0.0687
+    },
+    "高怀德": {
+      "appearances": 3,
+      "avg_degree": 4.33,
+      "avg_pagerank": 0.281,
+      "avg_betweenness": 0.0
+    },
+    "陶三春": {
+      "appearances": 2,
+      "avg_degree": 8.5,
+      "avg_pagerank": 0.1127,
+      "avg_betweenness": 0.1072
+    },
+    "家院": {
+      "appearances": 8,
+      "avg_degree": 5.5,
+      "avg_pagerank": 0.1479,
+      "avg_betweenness": 0.0356
+    },
+    "薛平贵": {
+      "appearances": 6,
+      "avg_degree": 3.83,
+      "avg_pagerank": 0.2842,
+      "avg_betweenness": 0.0222
+    },
+    "游人甲": {
+      "appearances": 4,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.1606,
+      "avg_betweenness": 0.0
+    },
+    "游人乙": {
+      "appearances": 4,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.1606,
+      "avg_betweenness": 0.0
+    },
+    "游人丙": {
+      "appearances": 4,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.1606,
+      "avg_betweenness": 0
+    },
+    "游人丁": {
+      "appearances": 3,
+      "avg_degree": 3.33,
+      "avg_pagerank": 0.1606,
+      "avg_betweenness": 0
+    },
+    "李桂莲": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.3545,
+      "avg_betweenness": 0.0
+    },
+    "公子": {
+      "appearances": 5,
+      "avg_degree": 3.8,
+      "avg_pagerank": 0.2405,
+      "avg_betweenness": 0.0
+    },
+    "张志龙": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.1598,
+      "avg_betweenness": 0.0092
+    },
+    "何宗宪": {
+      "appearances": 2,
+      "avg_degree": 1.0,
+      "avg_pagerank": 0.2,
+      "avg_betweenness": 0.0
+    },
+    "汉献帝": {
+      "appearances": 3,
+      "avg_degree": 6.0,
+      "avg_pagerank": 0.1414,
+      "avg_betweenness": 0.0442
+    },
+    "华歆": {
+      "appearances": 2,
+      "avg_degree": 9.5,
+      "avg_pagerank": 0.1658,
+      "avg_betweenness": 0.1441
+    },
+    "贾诩": {
+      "appearances": 4,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0.0
+    },
+    "文聘": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "夏侯渊": {
+      "appearances": 3,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.0801,
+      "avg_betweenness": 0.0
+    },
+    "陈平": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.233,
+      "avg_betweenness": 0.1167
+    },
+    "张夫人": {
+      "appearances": 5,
+      "avg_degree": 3.6,
+      "avg_pagerank": 0.1516,
+      "avg_betweenness": 0.0
+    },
+    "吕后": {
+      "appearances": 3,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.375,
+      "avg_betweenness": 0.0
+    },
+    "刘邦": {
+      "appearances": 3,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.2835,
+      "avg_betweenness": 0.0185
+    },
+    "纪信": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.1579,
+      "avg_betweenness": 0.0556
+    },
+    "项羽": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.2576,
+      "avg_betweenness": 0.3333
+    },
+    "张良": {
+      "appearances": 3,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.3395,
+      "avg_betweenness": 0.0185
+    },
+    "李艳妃": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.225,
+      "avg_betweenness": 0.0
+    },
+    "徐延昭": {
+      "appearances": 3,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.2611,
+      "avg_betweenness": 0.0
+    },
+    "杨波": {
+      "appearances": 4,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.248,
+      "avg_betweenness": 0.0
+    },
+    "王伯党": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.2386,
+      "avg_betweenness": 0.0833
+    },
+    "李世民": {
+      "appearances": 8,
+      "avg_degree": 3.75,
+      "avg_pagerank": 0.207,
+      "avg_betweenness": 0.004
+    },
+    "李渊": {
+      "appearances": 5,
+      "avg_degree": 3.4,
+      "avg_pagerank": 0.255,
+      "avg_betweenness": 0.0964
+    },
+    "李克用": {
+      "appearances": 4,
+      "avg_degree": 5.5,
+      "avg_pagerank": 0.2219,
+      "avg_betweenness": 0.1071
+    },
+    "周德威": {
+      "appearances": 3,
+      "avg_degree": 3.33,
+      "avg_pagerank": 0.1667,
+      "avg_betweenness": 0.0
+    },
+    "李嗣源": {
+      "appearances": 3,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.2056,
+      "avg_betweenness": 0.0159
+    },
+    "苏三": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.2959,
+      "avg_betweenness": 0.0
+    },
+    "张公道": {
+      "appearances": 3,
+      "avg_degree": 2.33,
+      "avg_pagerank": 0.2213,
+      "avg_betweenness": 0.0
+    },
+    "狱官": {
+      "appearances": 2,
+      "avg_degree": 6.0,
+      "avg_pagerank": 0.1565,
+      "avg_betweenness": 0.0213
+    },
+    "小姐": {
+      "appearances": 4,
+      "avg_degree": 3.25,
+      "avg_pagerank": 0.25,
+      "avg_betweenness": 0.0
+    },
+    "老夫人": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.1553,
+      "avg_betweenness": 0.0
+    },
+    "李氏": {
+      "appearances": 5,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.1928,
+      "avg_betweenness": 0.0179
+    },
+    "张元秀": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.2288,
+      "avg_betweenness": 0.0
+    },
+    "程敬思": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0.1771,
+      "avg_betweenness": 0.0
+    },
+    "禁婆": {
+      "appearances": 3,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.2742,
+      "avg_betweenness": 0.0
+    },
+    "王金龙": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.1608,
+      "avg_betweenness": 0.0
+    },
+    "孙尚香": {
+      "appearances": 3,
+      "avg_degree": 2.67,
+      "avg_pagerank": 0.3636,
+      "avg_betweenness": 0.2222
+    },
+    "太监": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.1775,
+      "avg_betweenness": 0.0
+    },
+    "王氏": {
+      "appearances": 10,
+      "avg_degree": 3.6,
+      "avg_pagerank": 0.287,
+      "avg_betweenness": 0.0137
+    },
+    "李相公": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.2105,
+      "avg_betweenness": 0.0333
+    },
+    "太夫人": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.1664,
+      "avg_betweenness": 0.0
+    },
+    "李七": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.2221,
+      "avg_betweenness": 0.0
+    },
+    "禁卒": {
+      "appearances": 3,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.25,
+      "avg_betweenness": 0.0
+    },
+    "秦香莲": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.3909,
+      "avg_betweenness": 0.0833
+    },
+    "关兴": {
+      "appearances": 3,
+      "avg_degree": 2.33,
+      "avg_pagerank": 0.156,
+      "avg_betweenness": 0.0143
+    },
+    "张苞": {
+      "appearances": 2,
+      "avg_degree": 1.0,
+      "avg_pagerank": 0.2,
+      "avg_betweenness": 0.0
+    },
+    "孙权": {
+      "appearances": 3,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.19,
+      "avg_betweenness": 0.0
+    },
+    "黄忠": {
+      "appearances": 5,
+      "avg_degree": 4.6,
+      "avg_pagerank": 0.2555,
+      "avg_betweenness": 0.1754
+    },
+    "魏延": {
+      "appearances": 3,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.1659,
+      "avg_betweenness": 0.0452
+    },
+    "韩玄": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0.2495,
+      "avg_betweenness": 0.1667
+    },
+    "姚期": {
+      "appearances": 5,
+      "avg_degree": 4.2,
+      "avg_pagerank": 0.2258,
+      "avg_betweenness": 0.025
+    },
+    "刘秀": {
+      "appearances": 6,
+      "avg_degree": 3.17,
+      "avg_pagerank": 0.1776,
+      "avg_betweenness": 0.0367
+    },
+    "马武": {
+      "appearances": 3,
+      "avg_degree": 6.0,
+      "avg_pagerank": 0.1801,
+      "avg_betweenness": 0.077
+    },
+    "岑彭": {
+      "appearances": 3,
+      "avg_degree": 5.67,
+      "avg_pagerank": 0.1473,
+      "avg_betweenness": 0.0452
+    },
+    "杜茂": {
+      "appearances": 3,
+      "avg_degree": 5.33,
+      "avg_pagerank": 0.1482,
+      "avg_betweenness": 0.0083
+    },
+    "郭妃": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.3333,
+      "avg_betweenness": 0.0
+    },
+    "知县": {
+      "appearances": 4,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.1001,
+      "avg_betweenness": 0
+    },
+    "张郃": {
+      "appearances": 3,
+      "avg_degree": 3.67,
+      "avg_pagerank": 0.122,
+      "avg_betweenness": 0.1607
+    },
+    "旗牌": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.1336,
+      "avg_betweenness": 0.0556
+    },
+    "王桂英": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.205,
+      "avg_betweenness": 0.1
+    },
+    "窦尔敦": {
+      "appearances": 3,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.2923,
+      "avg_betweenness": 0.3333
+    },
+    "黄天霸": {
+      "appearances": 11,
+      "avg_degree": 3.27,
+      "avg_pagerank": 0.1923,
+      "avg_betweenness": 0.1463
+    },
+    "报子": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.1654,
+      "avg_betweenness": 0.0
+    },
+    "施世纶": {
+      "appearances": 6,
+      "avg_degree": 3.33,
+      "avg_pagerank": 0.1519,
+      "avg_betweenness": 0.0833
+    },
+    "朱光祖": {
+      "appearances": 5,
+      "avg_degree": 1.6,
+      "avg_pagerank": 0.2027,
+      "avg_betweenness": 0.0
+    },
+    "褚彪": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.1225,
+      "avg_betweenness": 0.0
+    },
+    "春兰": {
+      "appearances": 2,
+      "avg_degree": 6.5,
+      "avg_pagerank": 0.1804,
+      "avg_betweenness": 0.0873
+    },
+    "卞机": {
+      "appearances": 2,
+      "avg_degree": 5.5,
+      "avg_pagerank": 0.1165,
+      "avg_betweenness": 0.0083
+    },
+    "刘月英": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.2035,
+      "avg_betweenness": 0.0278
+    },
+    "周通": {
+      "appearances": 3,
+      "avg_degree": 8.33,
+      "avg_pagerank": 0.1431,
+      "avg_betweenness": 0.0733
+    },
+    "刘得明": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.1549,
+      "avg_betweenness": 0.0
+    },
+    "刘夫人": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.1636,
+      "avg_betweenness": 0.0167
+    },
+    "张三": {
+      "appearances": 4,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.3316,
+      "avg_betweenness": 0.0
+    },
+    "嫂子": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.2668,
+      "avg_betweenness": 0.0
+    },
+    "吴国太": {
+      "appearances": 2,
+      "avg_degree": 1.0,
+      "avg_pagerank": 0.3207,
+      "avg_betweenness": 0.0
+    },
+    "秦英": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.1416,
+      "avg_betweenness": 0.0
+    },
+    "徐勣": {
+      "appearances": 8,
+      "avg_degree": 3.62,
+      "avg_pagerank": 0.1775,
+      "avg_betweenness": 0.0
+    },
+    "罗成": {
+      "appearances": 4,
+      "avg_degree": 3.25,
+      "avg_pagerank": 0.2901,
+      "avg_betweenness": 0.0
+    },
+    "单雄信": {
+      "appearances": 3,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.2,
+      "avg_betweenness": 0.0
+    },
+    "酒保": {
+      "appearances": 7,
+      "avg_degree": 3.14,
+      "avg_pagerank": 0.1008,
+      "avg_betweenness": 0.0381
+    },
+    "兀术": {
+      "appearances": 3,
+      "avg_degree": 3.33,
+      "avg_pagerank": 0.1801,
+      "avg_betweenness": 0.1905
+    },
+    "国太": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.1709,
+      "avg_betweenness": 0.0
+    },
+    "杨延德": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.3333,
+      "avg_betweenness": 0.0
+    },
+    "傧相": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "丫鬟": {
+      "appearances": 11,
+      "avg_degree": 2.45,
+      "avg_pagerank": 0.1678,
+      "avg_betweenness": 0.0059
+    },
+    "丑丫鬟": {
+      "appearances": 3,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.1054,
+      "avg_betweenness": 0
+    },
+    "马氏": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.2679,
+      "avg_betweenness": 0.0
+    },
+    "薛仁贵": {
+      "appearances": 5,
+      "avg_degree": 2.8,
+      "avg_pagerank": 0.2338,
+      "avg_betweenness": 0.127
+    },
+    "薛丁山": {
+      "appearances": 5,
+      "avg_degree": 2.4,
+      "avg_pagerank": 0.2971,
+      "avg_betweenness": 0.1333
+    },
+    "王平": {
+      "appearances": 3,
+      "avg_degree": 2.67,
+      "avg_pagerank": 0.2959,
+      "avg_betweenness": 0.0
+    },
+    "王允": {
+      "appearances": 4,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.3209,
+      "avg_betweenness": 0.0
+    },
+    "魏虎": {
+      "appearances": 3,
+      "avg_degree": 4.67,
+      "avg_pagerank": 0.2475,
+      "avg_betweenness": 0.0
+    },
+    "王母": {
+      "appearances": 2,
+      "avg_degree": 6.0,
+      "avg_pagerank": 0.1587,
+      "avg_betweenness": 0.0
+    },
+    "鸨儿": {
+      "appearances": 3,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.1711,
+      "avg_betweenness": 0.0296
+    },
+    "书生": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0.0952
+    },
+    "白简": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.3216,
+      "avg_betweenness": 0.0
+    },
+    "马谡": {
+      "appearances": 3,
+      "avg_degree": 1.67,
+      "avg_pagerank": 0.2908,
+      "avg_betweenness": 0.0
+    },
+    "岳云": {
+      "appearances": 3,
+      "avg_degree": 2.67,
+      "avg_pagerank": 0.1951,
+      "avg_betweenness": 0.0
+    },
+    "牛皋": {
+      "appearances": 4,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.1632,
+      "avg_betweenness": 0.0148
+    },
+    "甘夫人": {
+      "appearances": 3,
+      "avg_degree": 0.67,
+      "avg_pagerank": 0.0652,
+      "avg_betweenness": 0.0
+    },
+    "糜夫人": {
+      "appearances": 3,
+      "avg_degree": 0.67,
+      "avg_pagerank": 0.0652,
+      "avg_betweenness": 0.0
+    },
+    "徐庶": {
+      "appearances": 4,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0.126,
+      "avg_betweenness": 0.2076
+    },
+    "尉迟宝林": {
+      "appearances": 3,
+      "avg_degree": 3.67,
+      "avg_pagerank": 0.204,
+      "avg_betweenness": 0.1666
+    },
+    "院子": {
+      "appearances": 7,
+      "avg_degree": 3.29,
+      "avg_pagerank": 0.2618,
+      "avg_betweenness": 0.1333
+    },
+    "县令": {
+      "appearances": 4,
+      "avg_degree": 5.75,
+      "avg_pagerank": 0.1241,
+      "avg_betweenness": 0.1785
+    },
+    "吕洞宾": {
+      "appearances": 3,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.2752,
+      "avg_betweenness": 0.127
+    },
+    "周仓": {
+      "appearances": 3,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.2255,
+      "avg_betweenness": 0.0833
+    },
+    "关平": {
+      "appearances": 5,
+      "avg_degree": 1.8,
+      "avg_pagerank": 0.1549,
+      "avg_betweenness": 0.0
+    },
+    "李白": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.2,
+      "avg_betweenness": 0.0
+    },
+    "唐明皇": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.35,
+      "avg_betweenness": 0.0
+    },
+    "高力士": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.3326,
+      "avg_betweenness": 0.0
+    },
+    "尹妃": {
+      "appearances": 2,
+      "avg_degree": 1.5,
+      "avg_pagerank": 0.1508,
+      "avg_betweenness": 0.0
+    },
+    "张妃": {
+      "appearances": 2,
+      "avg_degree": 1.5,
+      "avg_pagerank": 0.2668,
+      "avg_betweenness": 0.0
+    },
+    "姬昌": {
+      "appearances": 3,
+      "avg_degree": 3.33,
+      "avg_pagerank": 0.3317,
+      "avg_betweenness": 0.134
+    },
+    "姜尚": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.3033,
+      "avg_betweenness": 0.2
+    },
+    "许仙": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.3014,
+      "avg_betweenness": 0.0833
+    },
+    "下书人": {
+      "appearances": 5,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.192,
+      "avg_betweenness": 0
+    },
+    "丑院子": {
+      "appearances": 6,
+      "avg_degree": 4.67,
+      "avg_pagerank": 0.0802,
+      "avg_betweenness": 0.0
+    },
+    "蔺相如": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.3941,
+      "avg_betweenness": 0.0278
+    },
+    "廉颇": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.3374,
+      "avg_betweenness": 0.0
+    },
+    "岳飞": {
+      "appearances": 3,
+      "avg_degree": 6.67,
+      "avg_pagerank": 0.1793,
+      "avg_betweenness": 0.1905
+    },
+    "宋徽宗": {
+      "appearances": 3,
+      "avg_degree": 3.33,
+      "avg_pagerank": 0.1207,
+      "avg_betweenness": 0.0
+    },
+    "宋钦宗": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.1207,
+      "avg_betweenness": 0.0
+    },
+    "代战公主": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0.2379,
+      "avg_betweenness": 0.0833
+    },
+    "马达": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.2113,
+      "avg_betweenness": 0.1667
+    },
+    "江海": {
+      "appearances": 2,
+      "avg_degree": 1.0,
+      "avg_pagerank": 0.0996,
+      "avg_betweenness": 0.0
+    },
+    "樊梨花": {
+      "appearances": 3,
+      "avg_degree": 2.33,
+      "avg_pagerank": 0.2637,
+      "avg_betweenness": 0.0
+    },
+    "薛应龙": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.2274,
+      "avg_betweenness": 0.0
+    },
+    "徐母": {
+      "appearances": 3,
+      "avg_degree": 3.33,
+      "avg_pagerank": 0.1943,
+      "avg_betweenness": 0.0
+    },
+    "老妇": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.3333,
+      "avg_betweenness": 0.0
+    },
+    "戴宗": {
+      "appearances": 3,
+      "avg_degree": 6.33,
+      "avg_pagerank": 0.2086,
+      "avg_betweenness": 0.0637
+    },
+    "高行周": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.3595,
+      "avg_betweenness": 0.0
+    },
+    "韩秀": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.2221,
+      "avg_betweenness": 0.0
+    },
+    "马妃": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.5,
+      "avg_betweenness": 0.0
+    },
+    "倪厚": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.2205,
+      "avg_betweenness": 0.0
+    },
+    "殷碧莲": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.2205,
+      "avg_betweenness": 0.0
+    },
+    "韩擒虎": {
+      "appearances": 3,
+      "avg_degree": 3.33,
+      "avg_pagerank": 0.1715,
+      "avg_betweenness": 0.0159
+    },
+    "陆炳": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.1578,
+      "avg_betweenness": 0.0
+    },
+    "雪艳": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.2452,
+      "avg_betweenness": 0.1167
+    },
+    "汤勤": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.2695,
+      "avg_betweenness": 0.0833
+    },
+    "戚继光": {
+      "appearances": 3,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.202,
+      "avg_betweenness": 0.0
+    },
+    "大太监": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.1597,
+      "avg_betweenness": 0.0
+    },
+    "朝臣甲": {
+      "appearances": 3,
+      "avg_degree": 3.67,
+      "avg_pagerank": 0.1107,
+      "avg_betweenness": 0.0
+    },
+    "朝臣乙": {
+      "appearances": 3,
+      "avg_degree": 3.67,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "朝臣丙": {
+      "appearances": 4,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "朝臣丁": {
+      "appearances": 3,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "公孙瓒": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.1613,
+      "avg_betweenness": 0.0278
+    },
+    "万历": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0.2085,
+      "avg_betweenness": 0.0
+    },
+    "濮天雕": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.1717,
+      "avg_betweenness": 0.0653
+    },
+    "王栋": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "王梁": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0.0357
+    },
+    "张桂兰": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0.1134,
+      "avg_betweenness": 0.0417
+    },
+    "张氏": {
+      "appearances": 5,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.1691,
+      "avg_betweenness": 0.0
+    },
+    "老道": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0.0
+    },
+    "张妈": {
+      "appearances": 2,
+      "avg_degree": 1.5,
+      "avg_pagerank": 0.1878,
+      "avg_betweenness": 0.0
+    },
+    "陈友谅": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.2343,
+      "avg_betweenness": 0.0
+    },
+    "陈友杰": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.3333,
+      "avg_betweenness": 0.0
+    },
+    "骆宏勋": {
+      "appearances": 6,
+      "avg_degree": 7.83,
+      "avg_pagerank": 0.1161,
+      "avg_betweenness": 0.1829
+    },
+    "余千": {
+      "appearances": 7,
+      "avg_degree": 7.71,
+      "avg_pagerank": 0.1096,
+      "avg_betweenness": 0.111
+    },
+    "巴杰": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.118,
+      "avg_betweenness": 0.0333
+    },
+    "马金定": {
+      "appearances": 2,
+      "avg_degree": 5.5,
+      "avg_pagerank": 0.0919,
+      "avg_betweenness": 0.0159
+    },
+    "胡理": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.1138,
+      "avg_betweenness": 0
+    },
+    "胡琏": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "孙悟空": {
+      "appearances": 4,
+      "avg_degree": 2.25,
+      "avg_pagerank": 0.1792,
+      "avg_betweenness": 0.1498
+    },
+    "唐三藏": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.1845,
+      "avg_betweenness": 0.0
+    },
+    "班超": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.2371,
+      "avg_betweenness": 0.1607
+    },
+    "鄯善王": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.2222,
+      "avg_betweenness": 0.0536
+    },
+    "林黛玉": {
+      "appearances": 2,
+      "avg_degree": 1.0,
+      "avg_pagerank": 0.5,
+      "avg_betweenness": 0.0
+    },
+    "贾宝玉": {
+      "appearances": 7,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.3272,
+      "avg_betweenness": 0.0452
+    },
+    "忘八": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.1498,
+      "avg_betweenness": 0.0
+    },
+    "李逵": {
+      "appearances": 3,
+      "avg_degree": 4.33,
+      "avg_pagerank": 0.1832,
+      "avg_betweenness": 0.1241
+    },
+    "燕青": {
+      "appearances": 3,
+      "avg_degree": 3.67,
+      "avg_pagerank": 0.1797,
+      "avg_betweenness": 0.0111
+    },
+    "贺仁杰": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.2386,
+      "avg_betweenness": 0.1
+    },
+    "莫怀古": {
+      "appearances": 3,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.2713,
+      "avg_betweenness": 0.0222
+    },
+    "傅氏": {
+      "appearances": 2,
+      "avg_degree": 1.0,
+      "avg_pagerank": 0.1847,
+      "avg_betweenness": 0.0
+    },
+    "邓禹": {
+      "appearances": 3,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.2101,
+      "avg_betweenness": 0.0
+    },
+    "潘金莲": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.2497,
+      "avg_betweenness": 0.0134
+    },
+    "武大": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.2497,
+      "avg_betweenness": 0.0134
+    },
+    "鲍金花": {
+      "appearances": 5,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.1563,
+      "avg_betweenness": 0.1833
+    },
+    "家将": {
+      "appearances": 4,
+      "avg_degree": 2.75,
+      "avg_pagerank": 0.1887,
+      "avg_betweenness": 0
+    },
+    "秦桧": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.3333,
+      "avg_betweenness": 0.0117
+    },
+    "李广": {
+      "appearances": 4,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.1123,
+      "avg_betweenness": 0.058
+    },
+    "皇上": {
+      "appearances": 2,
+      "avg_degree": 5.5,
+      "avg_pagerank": 0.0944,
+      "avg_betweenness": 0.125
+    },
+    "赵夫人": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.1213,
+      "avg_betweenness": 0.0
+    },
+    "韩延寿": {
+      "appearances": 2,
+      "avg_degree": 7.5,
+      "avg_pagerank": 0.0998,
+      "avg_betweenness": 0.2606
+    },
+    "杨广": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.1517,
+      "avg_betweenness": 0.0089
+    },
+    "李母": {
+      "appearances": 4,
+      "avg_degree": 5.75,
+      "avg_pagerank": 0.2436,
+      "avg_betweenness": 0.0521
+    },
+    "窦氏": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0.1127,
+      "avg_betweenness": 0.0571
+    },
+    "萧何": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.1867,
+      "avg_betweenness": 0.0
+    },
+    "曹仁": {
+      "appearances": 4,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0.1178,
+      "avg_betweenness": 0.0814
+    },
+    "牛金": {
+      "appearances": 3,
+      "avg_degree": 3.67,
+      "avg_pagerank": 0.0904,
+      "avg_betweenness": 0
+    },
+    "陈矫": {
+      "appearances": 3,
+      "avg_degree": 7.0,
+      "avg_pagerank": 0.1095,
+      "avg_betweenness": 0.1213
+    },
+    "刘封": {
+      "appearances": 6,
+      "avg_degree": 1.33,
+      "avg_pagerank": 0.2051,
+      "avg_betweenness": 0.05
+    },
+    "孙玉姣": {
+      "appearances": 2,
+      "avg_degree": 6.0,
+      "avg_pagerank": 0.4865,
+      "avg_betweenness": 0.5
+    },
+    "傅朋": {
+      "appearances": 2,
+      "avg_degree": 5.5,
+      "avg_pagerank": 0.2568,
+      "avg_betweenness": 0.0
+    },
+    "刘媒婆": {
+      "appearances": 2,
+      "avg_degree": 5.5,
+      "avg_pagerank": 0.1797,
+      "avg_betweenness": 0.0
+    },
+    "土地": {
+      "appearances": 6,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.1372,
+      "avg_betweenness": 0.1667
+    },
+    "王朗": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.3059,
+      "avg_betweenness": 0.0
+    },
+    "李妻": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.25,
+      "avg_betweenness": 0.0
+    },
+    "崔氏": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.3153,
+      "avg_betweenness": 0.15
+    },
+    "刘彪": {
+      "appearances": 2,
+      "avg_degree": 6.0,
+      "avg_pagerank": 0.1026,
+      "avg_betweenness": 0.0667
+    },
+    "妙善": {
+      "appearances": 2,
+      "avg_degree": 10.0,
+      "avg_pagerank": 0.216,
+      "avg_betweenness": 0.2306
+    },
+    "妙庄王": {
+      "appearances": 2,
+      "avg_degree": 9.0,
+      "avg_pagerank": 0.1713,
+      "avg_betweenness": 0.1163
+    },
+    "韩世忠": {
+      "appearances": 2,
+      "avg_degree": 7.0,
+      "avg_pagerank": 0.152,
+      "avg_betweenness": 0.2407
+    },
+    "孙安": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0.2465,
+      "avg_betweenness": 0.0833
+    },
+    "茶房": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.1754,
+      "avg_betweenness": 0.0
+    },
+    "司马徽": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0.0
+    },
+    "赵范": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.27,
+      "avg_betweenness": 0.0556
+    },
+    "张妻": {
+      "appearances": 3,
+      "avg_degree": 2.33,
+      "avg_pagerank": 0.2806,
+      "avg_betweenness": 0.1
+    },
+    "周员外": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.0821,
+      "avg_betweenness": 0.1238
+    },
+    "武松": {
+      "appearances": 3,
+      "avg_degree": 2.33,
+      "avg_pagerank": 0.2721,
+      "avg_betweenness": 0.0
+    },
+    "纣王": {
+      "appearances": 3,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.1162,
+      "avg_betweenness": 0.0481
+    },
+    "妲己": {
+      "appearances": 3,
+      "avg_degree": 3.67,
+      "avg_pagerank": 0.1555,
+      "avg_betweenness": 0.0333
+    },
+    "崇祯": {
+      "appearances": 3,
+      "avg_degree": 3.67,
+      "avg_pagerank": 0.207,
+      "avg_betweenness": 0.172
+    },
+    "王承恩": {
+      "appearances": 3,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.2556,
+      "avg_betweenness": 0.1389
+    },
+    "周后": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.3333,
+      "avg_betweenness": 0.0
+    },
+    "大校尉": {
+      "appearances": 2,
+      "avg_degree": 6.0,
+      "avg_pagerank": 0.0925,
+      "avg_betweenness": 0
+    },
+    "彭朋": {
+      "appearances": 3,
+      "avg_degree": 1.33,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0.2545
+    },
+    "高通海": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0.038
+    },
+    "刘德泰": {
+      "appearances": 2,
+      "avg_degree": 1.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "英雄甲": {
+      "appearances": 3,
+      "avg_degree": 0.67,
+      "avg_pagerank": 0.0337,
+      "avg_betweenness": 0.0
+    },
+    "英雄乙": {
+      "appearances": 3,
+      "avg_degree": 0.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "更夫甲": {
+      "appearances": 3,
+      "avg_degree": 2.33,
+      "avg_pagerank": 0.1066,
+      "avg_betweenness": 0
+    },
+    "更夫乙": {
+      "appearances": 3,
+      "avg_degree": 2.33,
+      "avg_pagerank": 0.1066,
+      "avg_betweenness": 0
+    },
+    "马超": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.3704,
+      "avg_betweenness": 0.2334
+    },
+    "马岱": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0.0
+    },
+    "程昱": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.3701,
+      "avg_betweenness": 0.0
+    },
+    "差官": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0.0291
+    },
+    "张昭": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.1567,
+      "avg_betweenness": 0.0
+    },
+    "僧人": {
+      "appearances": 3,
+      "avg_degree": 1.0,
+      "avg_pagerank": 0.1013,
+      "avg_betweenness": 0
+    },
+    "杨香武": {
+      "appearances": 3,
+      "avg_degree": 4.67,
+      "avg_pagerank": 0.2174,
+      "avg_betweenness": 0.1818
+    },
+    "邹应龙": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.1512,
+      "avg_betweenness": 0.0
+    },
+    "英雄丙": {
+      "appearances": 2,
+      "avg_degree": 0.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "县官": {
+      "appearances": 3,
+      "avg_degree": 1.33,
+      "avg_pagerank": 0.1777,
+      "avg_betweenness": 0.0
+    },
+    "周遇吉": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.2272,
+      "avg_betweenness": 0.2986
+    },
+    "李自成": {
+      "appearances": 3,
+      "avg_degree": 2.33,
+      "avg_pagerank": 0.2218,
+      "avg_betweenness": 0.0
+    },
+    "一支虎": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.1998,
+      "avg_betweenness": 0.0209
+    },
+    "吴用": {
+      "appearances": 3,
+      "avg_degree": 4.67,
+      "avg_pagerank": 0.104,
+      "avg_betweenness": 0.0
+    },
+    "秦明": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "金伯道": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.1321,
+      "avg_betweenness": 0.1631
+    },
+    "老鸨": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.1099,
+      "avg_betweenness": 0
+    },
+    "渔夫": {
+      "appearances": 2,
+      "avg_degree": 0.5,
+      "avg_pagerank": 0.1202,
+      "avg_betweenness": 0.0
+    },
+    "土地奶奶": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.0799,
+      "avg_betweenness": 0.0
+    },
+    "李春芳": {
+      "appearances": 2,
+      "avg_degree": 14.5,
+      "avg_pagerank": 0.0681,
+      "avg_betweenness": 0.1719
+    },
+    "施必显": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "施碧霞": {
+      "appearances": 2,
+      "avg_degree": 7.5,
+      "avg_pagerank": 0.0648,
+      "avg_betweenness": 0.2229
+    },
+    "华子林": {
+      "appearances": 2,
+      "avg_degree": 11.5,
+      "avg_pagerank": 0.059,
+      "avg_betweenness": 0.1378
+    },
+    "华月娥": {
+      "appearances": 2,
+      "avg_degree": 7.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "曹天宝": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "卢世杰": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "卢赛花": {
+      "appearances": 2,
+      "avg_degree": 6.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "卢夫人": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "红花": {
+      "appearances": 2,
+      "avg_degree": 7.5,
+      "avg_pagerank": 0.0421,
+      "avg_betweenness": 0.0745
+    },
+    "吴孝珍": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "王爷": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "华锦章": {
+      "appearances": 2,
+      "avg_degree": 9.0,
+      "avg_pagerank": 0.0625,
+      "avg_betweenness": 0.1029
+    },
+    "张槐仁": {
+      "appearances": 2,
+      "avg_degree": 5.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "成化帝": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "曹天佑": {
+      "appearances": 2,
+      "avg_degree": 5.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "秦氏": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "曹彬": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.1857,
+      "avg_betweenness": 0.0
+    },
+    "朱温": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.0988,
+      "avg_betweenness": 0.0238
+    },
+    "刘金定": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.3183,
+      "avg_betweenness": 0.0
+    },
+    "高俊保": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.3634,
+      "avg_betweenness": 0.0
+    },
+    "英雄丁": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "打擂者甲": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "打擂者乙": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "任正千": {
+      "appearances": 5,
+      "avg_degree": 7.6,
+      "avg_pagerank": 0.1018,
+      "avg_betweenness": 0.1096
+    },
+    "贺氏": {
+      "appearances": 4,
+      "avg_degree": 6.25,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0.0577
+    },
+    "何氏": {
+      "appearances": 3,
+      "avg_degree": 5.67,
+      "avg_pagerank": 0.0685,
+      "avg_betweenness": 0
+    },
+    "王伦": {
+      "appearances": 3,
+      "avg_degree": 6.67,
+      "avg_pagerank": 0.1048,
+      "avg_betweenness": 0
+    },
+    "贺世赖": {
+      "appearances": 4,
+      "avg_degree": 5.75,
+      "avg_pagerank": 0.0923,
+      "avg_betweenness": 0
+    },
+    "花振芳": {
+      "appearances": 5,
+      "avg_degree": 5.2,
+      "avg_pagerank": 0.1218,
+      "avg_betweenness": 0.021
+    },
+    "花碧莲": {
+      "appearances": 3,
+      "avg_degree": 5.67,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "巴氏": {
+      "appearances": 2,
+      "avg_degree": 9.5,
+      "avg_pagerank": 0.0453,
+      "avg_betweenness": 0.12
+    },
+    "朱元璋": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.4209,
+      "avg_betweenness": 0.375
+    },
+    "鲍自安": {
+      "appearances": 4,
+      "avg_degree": 7.5,
+      "avg_pagerank": 0.1144,
+      "avg_betweenness": 0.1923
+    },
+    "陈健元": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "朱彪": {
+      "appearances": 3,
+      "avg_degree": 2.67,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0.0693
+    },
+    "店小二": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "地保": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.0807,
+      "avg_betweenness": 0
+    },
+    "掌柜": {
+      "appearances": 2,
+      "avg_degree": 0.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "骆宾王": {
+      "appearances": 2,
+      "avg_degree": 1.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "狄仁杰": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0.4545
+    },
+    "吴汉": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0.2844,
+      "avg_betweenness": 0.3333
+    },
+    "曹洪": {
+      "appearances": 3,
+      "avg_degree": 3.67,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "徐文炳": {
+      "appearances": 4,
+      "avg_degree": 4.25,
+      "avg_pagerank": 0.0772,
+      "avg_betweenness": 0.0702
+    },
+    "徐文亮": {
+      "appearances": 3,
+      "avg_degree": 2.33,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0.0
+    },
+    "张谷": {
+      "appearances": 3,
+      "avg_degree": 5.33,
+      "avg_pagerank": 0.0789,
+      "avg_betweenness": 0.0655
+    },
+    "牛洪": {
+      "appearances": 2,
+      "avg_degree": 1.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "太白金星": {
+      "appearances": 2,
+      "avg_degree": 1.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0.0
+    },
+    "钱氏": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "楚云": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.069,
+      "avg_betweenness": 0.0322
+    },
+    "胡逵": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0.0812,
+      "avg_betweenness": 0.152
+    },
+    "黄贵": {
+      "appearances": 3,
+      "avg_degree": 3.33,
+      "avg_pagerank": 0.0716,
+      "avg_betweenness": 0
+    },
+    "徐福禄": {
+      "appearances": 2,
+      "avg_degree": 6.0,
+      "avg_pagerank": 0.13,
+      "avg_betweenness": 0.1542
+    },
+    "范其鸾": {
+      "appearances": 2,
+      "avg_degree": 6.0,
+      "avg_pagerank": 0.1082,
+      "avg_betweenness": 0.1476
+    },
+    "桑黛": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "婆子": {
+      "appearances": 2,
+      "avg_degree": 0.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "钱塘知县": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.0797,
+      "avg_betweenness": 0
+    },
+    "袁崇焕": {
+      "appearances": 3,
+      "avg_degree": 9.67,
+      "avg_pagerank": 0.2109,
+      "avg_betweenness": 0.6403
+    },
+    "祖大寿": {
+      "appearances": 3,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.0738,
+      "avg_betweenness": 0
+    },
+    "皇太极": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.0691,
+      "avg_betweenness": 0
+    },
+    "满桂": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.1109,
+      "avg_betweenness": 0.0055
+    },
+    "左辅": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.0855,
+      "avg_betweenness": 0.0055
+    },
+    "何可刚": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    },
+    "朱海": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.0855,
+      "avg_betweenness": 0.0055
+    },
+    "刘智远": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0.259,
+      "avg_betweenness": 0.1547
+    },
+    "康宁": {
+      "appearances": 2,
+      "avg_degree": 3.5,
+      "avg_pagerank": 0.2568,
+      "avg_betweenness": 0.0
+    },
+    "刘氏": {
+      "appearances": 3,
+      "avg_degree": 5.33,
+      "avg_pagerank": 0.1394,
+      "avg_betweenness": 0.0333
+    },
+    "陈希真": {
+      "appearances": 2,
+      "avg_degree": 12.5,
+      "avg_pagerank": 0.0786,
+      "avg_betweenness": 0.0591
+    },
+    "陈丽卿": {
+      "appearances": 2,
+      "avg_degree": 12.0,
+      "avg_pagerank": 0.0756,
+      "avg_betweenness": 0.0284
+    },
+    "蔡京": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0.0445,
+      "avg_betweenness": 0
+    },
+    "门官": {
+      "appearances": 2,
+      "avg_degree": 2.5,
+      "avg_pagerank": 0.2,
+      "avg_betweenness": 0.0
+    },
+    "房玄龄": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.1577,
+      "avg_betweenness": 0.0
+    },
+    "贾政": {
+      "appearances": 2,
+      "avg_degree": 4.5,
+      "avg_pagerank": 0.1807,
+      "avg_betweenness": 0.0179
+    },
+    "晴雯": {
+      "appearances": 2,
+      "avg_degree": 3.0,
+      "avg_pagerank": 0.3545,
+      "avg_betweenness": 0.1333
+    },
+    "达摩": {
+      "appearances": 2,
+      "avg_degree": 2.0,
+      "avg_pagerank": 0.1227,
+      "avg_betweenness": 0
+    },
+    "寇珠": {
+      "appearances": 2,
+      "avg_degree": 5.0,
+      "avg_pagerank": 0.0568,
+      "avg_betweenness": 0.0076
+    },
+    "郭槐": {
+      "appearances": 2,
+      "avg_degree": 6.0,
+      "avg_pagerank": 0.0779,
+      "avg_betweenness": 0
+    },
+    "曹纯": {
+      "appearances": 2,
+      "avg_degree": 4.0,
+      "avg_pagerank": 0,
+      "avg_betweenness": 0
+    }
+  },
+  "top_by_metric": {
+    "top_degree": [
+      {
+        "name": "李春芳",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 14.5,
+          "avg_pagerank": 0.0681,
+          "avg_betweenness": 0.1719
+        }
+      },
+      {
+        "name": "陈希真",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 12.5,
+          "avg_pagerank": 0.0786,
+          "avg_betweenness": 0.0591
+        }
+      },
+      {
+        "name": "陈丽卿",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 12.0,
+          "avg_pagerank": 0.0756,
+          "avg_betweenness": 0.0284
+        }
+      },
+      {
+        "name": "华子林",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 11.5,
+          "avg_pagerank": 0.059,
+          "avg_betweenness": 0.1378
+        }
+      },
+      {
+        "name": "妙善",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 10.0,
+          "avg_pagerank": 0.216,
+          "avg_betweenness": 0.2306
+        }
+      },
+      {
+        "name": "袁崇焕",
+        "values": {
+          "appearances": 3,
+          "avg_degree": 9.67,
+          "avg_pagerank": 0.2109,
+          "avg_betweenness": 0.6403
+        }
+      },
+      {
+        "name": "华歆",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 9.5,
+          "avg_pagerank": 0.1658,
+          "avg_betweenness": 0.1441
+        }
+      },
+      {
+        "name": "巴氏",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 9.5,
+          "avg_pagerank": 0.0453,
+          "avg_betweenness": 0.12
+        }
+      },
+      {
+        "name": "妙庄王",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 9.0,
+          "avg_pagerank": 0.1713,
+          "avg_betweenness": 0.1163
+        }
+      },
+      {
+        "name": "华锦章",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 9.0,
+          "avg_pagerank": 0.0625,
+          "avg_betweenness": 0.1029
+        }
+      },
+      {
+        "name": "陶三春",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 8.5,
+          "avg_pagerank": 0.1127,
+          "avg_betweenness": 0.1072
+        }
+      },
+      {
+        "name": "周通",
+        "values": {
+          "appearances": 3,
+          "avg_degree": 8.33,
+          "avg_pagerank": 0.1431,
+          "avg_betweenness": 0.0733
+        }
+      },
+      {
+        "name": "骆宏勋",
+        "values": {
+          "appearances": 6,
+          "avg_degree": 7.83,
+          "avg_pagerank": 0.1161,
+          "avg_betweenness": 0.1829
+        }
+      },
+      {
+        "name": "余千",
+        "values": {
+          "appearances": 7,
+          "avg_degree": 7.71,
+          "avg_pagerank": 0.1096,
+          "avg_betweenness": 0.111
+        }
+      },
+      {
+        "name": "任正千",
+        "values": {
+          "appearances": 5,
+          "avg_degree": 7.6,
+          "avg_pagerank": 0.1018,
+          "avg_betweenness": 0.1096
+        }
+      }
+    ],
+    "top_pagerank": [
+      {
+        "name": "正德帝",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 1.5,
+          "avg_pagerank": 0.5,
+          "avg_betweenness": 0.0
+        }
+      },
+      {
+        "name": "马妃",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 2.0,
+          "avg_pagerank": 0.5,
+          "avg_betweenness": 0.0
+        }
+      },
+      {
+        "name": "林黛玉",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 1.0,
+          "avg_pagerank": 0.5,
+          "avg_betweenness": 0.0
+        }
+      },
+      {
+        "name": "孙玉姣",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 6.0,
+          "avg_pagerank": 0.4865,
+          "avg_betweenness": 0.5
+        }
+      },
+      {
+        "name": "张文远",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 1.5,
+          "avg_pagerank": 0.435,
+          "avg_betweenness": 0.0
+        }
+      },
+      {
+        "name": "陈氏",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 1.5,
+          "avg_pagerank": 0.435,
+          "avg_betweenness": 0.0
+        }
+      },
+      {
+        "name": "张义",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 1.5,
+          "avg_pagerank": 0.435,
+          "avg_betweenness": 0.0
+        }
+      },
+      {
+        "name": "朱元璋",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 3.0,
+          "avg_pagerank": 0.4209,
+          "avg_betweenness": 0.375
+        }
+      },
+      {
+        "name": "蔺相如",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 2.5,
+          "avg_pagerank": 0.3941,
+          "avg_betweenness": 0.0278
+        }
+      },
+      {
+        "name": "秦香莲",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 2.5,
+          "avg_pagerank": 0.3909,
+          "avg_betweenness": 0.0833
+        }
+      },
+      {
+        "name": "貂蝉",
+        "values": {
+          "appearances": 4,
+          "avg_degree": 2.0,
+          "avg_pagerank": 0.3863,
+          "avg_betweenness": 0.0
+        }
+      },
+      {
+        "name": "王宝钏",
+        "values": {
+          "appearances": 7,
+          "avg_degree": 2.57,
+          "avg_pagerank": 0.3806,
+          "avg_betweenness": 0.0
+        }
+      },
+      {
+        "name": "姜维",
+        "values": {
+          "appearances": 4,
+          "avg_degree": 2.0,
+          "avg_pagerank": 0.3798,
+          "avg_betweenness": 0.3333
+        }
+      },
+      {
+        "name": "吕后",
+        "values": {
+          "appearances": 3,
+          "avg_degree": 2.0,
+          "avg_pagerank": 0.375,
+          "avg_betweenness": 0.0
+        }
+      },
+      {
+        "name": "马超",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 4.0,
+          "avg_pagerank": 0.3704,
+          "avg_betweenness": 0.2334
+        }
+      }
+    ],
+    "top_betweenness": [
+      {
+        "name": "袁崇焕",
+        "values": {
+          "appearances": 3,
+          "avg_degree": 9.67,
+          "avg_pagerank": 0.2109,
+          "avg_betweenness": 0.6403
+        }
+      },
+      {
+        "name": "孙玉姣",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 6.0,
+          "avg_pagerank": 0.4865,
+          "avg_betweenness": 0.5
+        }
+      },
+      {
+        "name": "狄仁杰",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 3.0,
+          "avg_pagerank": 0,
+          "avg_betweenness": 0.4545
+        }
+      },
+      {
+        "name": "范仲禹",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 4.0,
+          "avg_pagerank": 0.3354,
+          "avg_betweenness": 0.4
+        }
+      },
+      {
+        "name": "朱元璋",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 3.0,
+          "avg_pagerank": 0.4209,
+          "avg_betweenness": 0.375
+        }
+      },
+      {
+        "name": "姜维",
+        "values": {
+          "appearances": 4,
+          "avg_degree": 2.0,
+          "avg_pagerank": 0.3798,
+          "avg_betweenness": 0.3333
+        }
+      },
+      {
+        "name": "项羽",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 3.0,
+          "avg_pagerank": 0.2576,
+          "avg_betweenness": 0.3333
+        }
+      },
+      {
+        "name": "窦尔敦",
+        "values": {
+          "appearances": 3,
+          "avg_degree": 3.0,
+          "avg_pagerank": 0.2923,
+          "avg_betweenness": 0.3333
+        }
+      },
+      {
+        "name": "吴汉",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 4.0,
+          "avg_pagerank": 0.2844,
+          "avg_betweenness": 0.3333
+        }
+      },
+      {
+        "name": "周遇吉",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 5.0,
+          "avg_pagerank": 0.2272,
+          "avg_betweenness": 0.2986
+        }
+      },
+      {
+        "name": "韩延寿",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 7.5,
+          "avg_pagerank": 0.0998,
+          "avg_betweenness": 0.2606
+        }
+      },
+      {
+        "name": "彭朋",
+        "values": {
+          "appearances": 3,
+          "avg_degree": 1.33,
+          "avg_pagerank": 0,
+          "avg_betweenness": 0.2545
+        }
+      },
+      {
+        "name": "韩世忠",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 7.0,
+          "avg_pagerank": 0.152,
+          "avg_betweenness": 0.2407
+        }
+      },
+      {
+        "name": "马超",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 4.0,
+          "avg_pagerank": 0.3704,
+          "avg_betweenness": 0.2334
+        }
+      },
+      {
+        "name": "妙善",
+        "values": {
+          "appearances": 2,
+          "avg_degree": 10.0,
+          "avg_pagerank": 0.216,
+          "avg_betweenness": 0.2306
+        }
+      }
+    ]
+  }
+}
